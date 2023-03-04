@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YugiohApi", "YugiohApi\YugiohApi.csproj", "{161EA871-0E0E-4544-A3A5-69C76397FFCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{161EA871-0E0E-4544-A3A5-69C76397FFCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{161EA871-0E0E-4544-A3A5-69C76397FFCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{161EA871-0E0E-4544-A3A5-69C76397FFCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{161EA871-0E0E-4544-A3A5-69C76397FFCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DB028C9-BA14-44A1-A977-AEAA55E73845}
+	EndGlobalSection
+EndGlobal
