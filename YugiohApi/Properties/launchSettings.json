@@ -13,7 +13,7 @@
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
-      "launchUrl": "swagger",
+      "launchUrl": "api/YugiohCards",
       "applicationUrl": "https://localhost:7137;http://localhost:5250",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
@@ -22,7 +22,7 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "swagger", //switch to api/YugiohApi later
+      "launchUrl": "api/YugiohCards", 
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
